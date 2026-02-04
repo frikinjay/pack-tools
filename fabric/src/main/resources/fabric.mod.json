@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "packtools",
+  "version": "${version}",
+  "name": "Pack Tools",
+  "accessWidener": "packtools.accesswidener",
+  "description": "Tools, utilities and features for modpacks.",
+  "authors": [
+    "frikinjay"
+  ],
+  "contact": {
+    "homepage": "https://github.com/frikinjay/packtools"
+  },
+  "license": "LGPL3.0",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "preLaunch": [
+           "com.frikinjay.packtools.fabric.PackToolsPreLaunch"
+    ],
+    "main": [
+      "com.frikinjay.packtools.fabric.PackToolsFabric"
+    ],
+    "client": [
+      "com.frikinjay.packtools.fabric.client.PackToolsFabricClient"
+    ],
+    "server": [
+      "com.frikinjay.packtools.fabric.PackToolsServer"
+    ],
+    "fabric-datagen": [
+
+    ],
+    "modmenu": [
+      "com.frikinjay.packtools.integration.fabric.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "packtools-fabric.mixins.json",
+    "packtools.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.2",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": ">=17.0.0-alpha.1"
+  }
+}
