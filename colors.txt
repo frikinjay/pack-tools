@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/frikinjay/pack-tools/refs/heads/main/colors/autumn/colors.json5
