@@ -1,0 +1,117 @@
+// Autumn Theme - Colours for Dungeon Config screen in ARGB hex.
+{
+  // Top of the background gradient (Deep warm chestnut)
+  "BG_TOP": "0xFF331406",
+  // Middle of the background gradient (Roasted cedar brown)
+  "BG_MID": "0xFF220C04",
+  // Bottom of the background gradient (Charred foliage black)
+  "BG_BOTTOM": "0xFF0F0401",
+  // Tint applied over the background picture
+  "BG_TINT": "0xFF290E04",
+  // Faint decorative blocks in the background (Golden leaf fleck)
+  "BG_BLOCK": "0x0EFFD6A5",
+  // Vertical light streaks in the background (Flickering ember)
+  "BG_STREAK": "0x2EFF8533",
+  // Top of the header bar gradient (Bright pumpkin orange)
+  "BAR_TOP": "0xFFFF7A00",
+  // Bottom of the header bar gradient (Crimson maple)
+  "BAR_BOTTOM": "0xFFB82800",
+  // Header bar bottom edge line
+  "BAR_EDGE": "0xFF260D05",
+  // Inactive tab text
+  "TAB_TEXT": "0xFFC5D0C7",
+  // Hovered tab text
+  "TAB_HOVER": "0xFFE2EAE3",
+  // Selected tab text
+  "TAB_SELECTED": "0xFFF9F9F8",
+  // Primary accent - warm harvest orange
+  "ACCENT": "0xFFFF8A00",
+  // Lighter accent for gradients and glows (Honey amber)
+  "ACCENT_LIGHT": "0xFFFFC04D",
+  // Darker accent for shadows (Cinnamon shade)
+  "ACCENT_DARK": "0xFFA34400",
+  // Section header text in the list (Warm dried birch)
+  "HEADER": "0xFFE6C4A8",
+  // List row background
+  "ROW": "0x2E1C0A03",
+  // Hovered list row highlight
+  "ROW_HOVER": "0x18FFE6D0",
+  // Selected list row highlight
+  "ROW_SELECTED": "0x2DF48A36",
+  // Row border when a dropdown is open
+  "ROW_BORDER": "0xE0C8885E",
+  // Setting label text (Warm parchment)
+  "LABEL": "0xFFF5E3D5",
+  // Dimmed label text (Muted acorn)
+  "LABEL_DIM": "0xFFBA9E8A",
+  // Setting value text (Warm ivory)
+  "VALUE": "0xFFFFF6EE",
+  // Value input box background
+  "VALUE_BOX": "0xC2210C04",
+  // Value input box background when hovered/focused
+  "VALUE_BOX_HOVER": "0xD8331407",
+  // Value input box border
+  "VALUE_BOX_EDGE": "0x40C97F52",
+  // Muted secondary text
+  "MUTED": "0xFF8F705B",
+  // Text input caret
+  "CARET": "0xFFFF9E2C",
+  // Toggle switch ON fill (Warm burnt orange)
+  "TOGGLE_ON": "0xFFE0661A",
+  // Toggle switch ON shadow
+  "TOGGLE_ON_DARK": "0xFF9E3805",
+  // Toggle switch ON checkmark
+  "TOGGLE_MARK": "0xFF381202",
+  // Toggle switch border
+  "TOGGLE_EDGE": "0xFF170802",
+  // Toggle switch OFF fill
+  "TOGGLE_OFF": "0xD0210C04",
+  // Toggle switch OFF circle
+  "TOGGLE_CIRCLE": "0xFF8F674E",
+  // Slider knob main color (Light birch)
+  "KNOB": "0xFFEADCCB",
+  // Slider knob top highlight
+  "KNOB_LIGHT": "0xFFFFF5E8",
+  // Slider knob bottom shade
+  "KNOB_SHADE": "0xFFBCA691",
+  // Slider knob outline
+  "KNOB_DARK": "0xFF755B46",
+  // Slider track background
+  "SLIDER_TRACK": "0xFF472212",
+  // Slider filled portion (Pumpkin orange)
+  "SLIDER_FILL": "0xFFF07C28",
+  // Slider filled portion bottom edge
+  "SLIDER_FILL_DARK": "0xFFA84609",
+  // Keybind chip background
+  "CHIP": "0xFFECD8C4",
+  // Keybind chip bottom shade
+  "CHIP_SHADE": "0xFFB89E86",
+  // Keybind chip border
+  "CHIP_EDGE": "0xFF170B04",
+  // Keybind chip text
+  "CHIP_TEXT": "0xFF2E1305",
+  // Footer text
+  "FOOTER_TEXT": "0xFFE8D4C3",
+  // Description panel background
+  "PANEL": "0xE01C0A04",
+  // Description panel frame (Rustic copper wood)
+  "PANEL_FRAME": "0xFF632B13",
+  // Description panel frame highlight
+  "PANEL_FRAME_LIGHT": "0xFF944723",
+  // Description panel title text
+  "PANEL_TITLE": "0xFFFCE9DB",
+  // Description panel body text
+  "PANEL_TEXT": "0xFFDEC4B2",
+  // Description panel divider line
+  "PANEL_DIVIDER": "0xFF4A1F0D",
+  // "Modified" indicator text
+  "MODIFIED": "0xFFFF8A00",
+  // Drop shadow under panels and bars
+  "SHADOW": "0xA0000000",
+  // Scrollbar track
+  "SCROLL_TRACK": "0x50000000",
+  // Scrollbar thumb
+  "SCROLL_THUMB": "0xFF7D4629",
+  // Scrollbar thumb when hovered
+  "SCROLL_THUMB_HOVER": "0xFFA8633D"
+}
